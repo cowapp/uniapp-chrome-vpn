@@ -1,0 +1,243 @@
+{
+   "name": {
+      "message": "云游VPN"
+   },
+   "desc": {
+      "message": "科学上网 & 私有节点 & 智能检测 & 自定义域名"
+   },
+   "email": {
+      "message": "邮箱"
+   },
+   "passwd": {
+      "message": "密码"
+   },
+   "login": {
+      "message": "登 录"
+   },
+   "forget": {
+      "message": "找回密码"
+   },
+   "register": {
+      "message": "注 册"
+   },
+   "remeber": {
+      "message": "记住我"
+   },
+   "loginok": {
+      "message": "登陆成功"
+   },
+   "waiting": {
+      "message": "请稍等..."
+   },
+   "err_email": {
+      "message": "邮箱不正确"
+   },
+   "err_passwd": {
+      "message": "密码不正确"
+   },
+   "inviter": {
+      "message": "邀请人(可选)"
+   },
+   "verify_code": {
+      "message": "验证码"
+   },
+   "agree": {
+      "message": "同意"
+   },
+   "agreement": {
+      "message": "《用户协议》"
+   },
+   "code_sending": {
+      "message": "验证码发送中"
+   },
+   "code_sent": {
+      "message": "发送成功"
+   },
+   "regist_before": {
+      "message": "请先同意"
+   },
+   "err_code": {
+      "message": "验证码不正确"
+   },
+   "register_ok": {
+      "message": "注册成功"
+   },
+   "fogort_desc": {
+      "message": "若你忘记了密码，可在此重置新密码"
+   },
+   "get_code": {
+      "message": "获取重置码"
+   },
+   "rest_passwd": {
+      "message": "重置密码"
+   },
+   "rest_passwd_ok": {
+      "message": "重置密码成功"
+   },
+   "service_email": {
+      "message": "客服邮箱"
+   },
+   "chat_group": {
+      "message": "用户交流群"
+   },
+   "blog": {
+      "message": "官方博客"
+   },
+   "smart_mode": {
+      "message": "智能模式"
+   },
+   "global_mode": {
+      "message": "全局模式"
+   },
+   "d_not_proxy": {
+      "message": "域未代理"
+   },
+   "d_proxied": {
+      "message": "域已代理"
+   },
+   "self_domains": {
+      "message": "自定义域"
+   },
+   "all_domains": {
+      "message": "全部请求"
+   },
+   "closed_proxy": {
+      "message": "已关闭代理"
+   },
+   "self_proxy": {
+      "message": "开启自定义过滤模式"
+   },
+   "global_proxy": {
+      "message": "已开启全局模式"
+   },
+   "global_tips": {
+      "message": "开启后正常网站可能变得缓慢，建议您优先使用智能模式。确定开启？"
+   },
+   "low_version": {
+      "message": "版本过低"
+   },
+   "notice": {
+      "message": "通知"
+   },
+   "left_socre": {
+      "message": "积分剩余"
+   },
+   "vip_over": {
+      "message": "您的付费服务即将结束，请尽快续费！"
+   },
+   "network_err": {
+      "message": "网络异常"
+   },
+   "node_err": {
+      "message": "连接似乎有点问题，建议更换节点"
+   },
+   "desk_err": {
+      "message": "无法连接桌面版，请检查是否打开"
+   },
+   "free_user": {
+      "message": "免费用户"
+   },
+   "private_server": {
+      "message": "私有服务节点"
+   },
+   "buy": {
+      "message": "微信/支付宝"
+   },
+   "buytrc20": {
+      "message": "TRC20-USDT"
+   },
+   "tips": {
+      "message": "提示"
+   },
+   "got_it": {
+      "message": "明白了"
+   },
+   "bounght": {
+      "message": "已获得"
+   },
+   "exchange": {
+      "message": "兑换"
+   },
+   "balance_not_enough": {
+      "message": "积分不足"
+   },
+   "exchange_ok": {
+      "message": "兑换成功"
+   },
+   "sys_busy": {
+      "message": "繁忙，请稍后再试"
+   },
+   "buy_tips": {
+      "message": ""
+   },
+   "plans": {
+      "message": "会员套餐"
+   },
+   "vip_member": {
+      "message": "会员"
+   },
+   "score": {
+      "message": "积分"
+   },
+   "reward": {
+      "message": "推荐奖励"
+   },
+   "node_market": {
+      "message": "节点市场"
+   },
+   "sign_out": {
+      "message": "退出登录"
+   },
+
+   "api_check_err": {
+      "message": "请求失败"
+   },
+   "api_err_tip": {
+      "message": "网络异常，多次尝试无法连接请使用\"云游-桌面版\"修复。如有疑问联系售后客服cow.gococo@gmail.com"
+   },
+   "use_warming": {
+      "message": "正常使用不限流量和速度，刷流量或破坏节点一律封禁"
+   },
+   "sale_tag": {
+      "message": "售价"
+   },
+   "sale_desc": {
+      "message": "VIP时长大于"
+   },
+   "day": {
+      "message": "天"
+   },
+   "yuan": {
+      "message": "元"
+   },
+   "search": {
+      "message": "输入搜索域名"
+   },
+   "domain": {
+      "message": "域名"
+   },
+   "operate": {
+      "message": "操作"
+   },
+   "cleanall": {
+      "message": "一键清除"
+   },
+   "restore": {
+      "message": "恢复默认"
+   },
+   "no_data": {
+      "message": "暂无更多数据"
+   },
+   "t_clean_all": {
+      "message": "清除所有域名"
+   },
+   "c_clean_all": {
+      "message": "此操作可能导致在智能模式下无法正常科学上网，该模式下可再次对部分需要代理的域名进行添加，但如果您是小白用户建议取消当前操作！"
+   },
+   "t_restore_all": {
+      "message": "恢复初始化"
+   },
+   "c_restore_all": {
+      "message": "此操作将恢复插件安装时默认的智能过滤列表，智能模式下将根据该列表进行智能过滤！"
+   }
+}

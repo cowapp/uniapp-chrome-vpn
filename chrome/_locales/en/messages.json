@@ -1,0 +1,243 @@
+{
+   "name": {
+      "message": "YY VPN"
+   },
+   "desc": {
+      "message": "A custom filter list, fast and smart lightweight VPN"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "passwd": {
+      "message": "Password"
+   },
+   "login": {
+      "message": "Sign In"
+   },
+   "forget": {
+      "message": "Retrieve password"
+   },
+   "register": {
+      "message": "Sign Up"
+   },
+   "remeber": {
+      "message": "remember me"
+   },
+   "loginok": {
+      "message": "Login successful"
+   },
+   "waiting": {
+      "message": "Please wait..."
+   },
+   "err_email": {
+      "message": "Email is incorrect"
+   },
+   "err_passwd": {
+      "message": "Password is incorrect"
+   },
+   "inviter": {
+      "message": "Inviter (optional)"
+   },
+   "verify_code": {
+      "message": "Verification code"
+   },
+   "agree": {
+      "message": "Agree"
+   },
+   "agreement": {
+      "message": "User Agreement"
+   },
+   "code_sending": {
+      "message": "Verification code is sending"
+   },
+   "code_sent": {
+      "message": "Sent successfully"
+   },
+   "regist_before": {
+      "message": "Please agree first"
+   },
+   "err_code": {
+      "message": "Verification code is incorrect"
+   },
+   "register_ok": {
+      "message": "Registration successful"
+   },
+   "fogort_desc": {
+      "message": "If you forget your password, you can reset your new password here"
+   },
+   "get_code": {
+      "message": "Get reset code"
+   },
+   "rest_passwd": {
+      "message": "Reset password"
+   },
+   "rest_passwd_ok": {
+      "message": "Password reset successful"
+   },
+   "service_email": {
+      "message": "Customer service email"
+   },
+   "chat_group": {
+      "message": "User communication group"
+   },
+   "blog": {
+      "message": "Official blog"
+   },
+   "smart_mode": {
+      "message": "Smart Mode"
+   },
+   "global_mode": {
+      "message": "Global Mode"
+   },
+   "d_not_proxy": {
+      "message": "Not proxied"
+   },
+   "d_proxied": {
+      "message": "Proxied"
+   },
+   "self_domains": {
+      "message": "Custom domain"
+   },
+   "all_domains": {
+      "message": "All requests"
+   },
+   "closed_proxy": {
+      "message": "Proxy closed"
+   },
+   "self_proxy": {
+      "message": "Enable custom filtering mode"
+   },
+   "global_proxy": {
+      "message": "Global mode is enabled"
+   },
+   "global_tips": {
+      "message": "Normal websites may become slow after turning it on. It is recommended that you use smart mode first. Are you sure to turn it on?"
+   },
+   "low_version": {
+      "message": "Version too low"
+   },
+   "notice": {
+      "message": "notification"
+   },
+   "left_socre": {
+      "message": "Points remaining"
+   },
+   "vip_over": {
+      "message": "Your paid service is about to end, please renew as soon as possible!"
+   },
+   "network_err": {
+      "message": "Network abnormality"
+   },
+   "node_err": {
+      "message": "There seems to be some problem with the connection. It is recommended to change the node"
+   },
+   "desk_err": {
+      "message": "Unable to connect to the desktop version, please check whether it is open"
+   },
+   "free_user": {
+      "message": "Free user"
+   },
+   "private_server": {
+      "message": "Private service node"
+   },
+   "buy": {
+      "message": "WeChat/Alipay"
+   },
+   "buytrc20": {
+      "message": "TRC20-USDT"
+   },
+   "tips": {
+      "message": "Tips"
+   },
+   "got_it": {
+      "message": "I understand"
+   },
+   "bounght": {
+      "message": "obtained"
+   },
+   "exchange": {
+      "message": "exchange"
+   },
+   "balance_not_enough": {
+      "message": "Insufficient points"
+   },
+   "exchange_ok": {
+      "message": "Redeem successful"
+   },
+   "sys_busy": {
+      "message": "Busy, please try again later"
+   },
+   "buy_tips": {
+      "message": ""
+   },
+   "plans": {
+      "message": "Membership Package"
+   },
+   "vip_member": {
+      "message": "Member"
+   },
+   "score": {
+      "message": "Points"
+   },
+   "reward": {
+      "message": "Recommendation reward"
+   },
+   "node_market": {
+      "message": "Node Market"
+   },
+   "sign_out": {
+      "message": "Log out"
+   },
+
+   "api_check_err": {
+      "message": "Request failed"
+   },
+   "api_err_tip": {
+      "message": "The network is abnormal. If you cannot connect after multiple attempts, please use YY-Desktop Version to fix it. If you have any questions, please contact after-sales customer service cow.gococo@gmail.com"
+   },
+   "use_warming": {
+      "message": "There is no limit on traffic and speed for normal use. Traffic flushing or node damage will be banned."
+   },
+   "sale_tag": {
+      "message": "selling price"
+   },
+   "sale_desc": {
+      "message": "VIP Longer than"
+   },
+   "day": {
+      "message": "Day"
+   },
+   "yuan": {
+      "message": "Yuan"
+   },
+   "search": {
+      "message": "Enter the search domain name"
+   },
+   "domain": {
+      "message": "Domain"
+   },
+   "operate": {
+      "message": "Operation"
+   },
+   "cleanall": {
+      "message": "Clear All"
+   },
+   "restore": {
+      "message": "Restore Default"
+   },
+   "no_data": {
+      "message": "No more data yet"
+   },
+   "t_clean_all": {
+      "message": "Clear all domains"
+   },
+   "c_clean_all": {
+      "message": "This operation may result in the inability to access the Internet normally in smart mode. In this mode, you can add some domain names that require proxy again, but if you are a novice user, it is recommended to cancel the current operation!"
+   },
+   "t_restore_all": {
+      "message": "Restore initialization"
+   },
+   "c_restore_all": {
+      "message": "This operation will restore the default smart filtering list when the plug-in is installed. Smart filtering will be performed based on this list in smart mode!"
+   }
+}

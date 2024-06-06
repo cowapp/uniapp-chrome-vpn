@@ -1,0 +1,38 @@
+{
+  "name": "__MSG_name__",
+  "description": "__MSG_desc__",
+  "default_locale": "zh_CN",
+  "version": "4.3",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "storage",
+    "proxy",
+    "webRequest",
+    "tabs",
+    "privacy",
+    "management",
+    "declarativeNetRequest",
+    "declarativeNetRequestWithHostAccess",
+    "declarativeNetRequestFeedback"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "256": "static/logo.png",
+    "128": "static/logo.png",
+    "64": "static/logo.png",
+    "32": "static/logo.png"
+  },
+  "options_ui": {
+    "page": "index.html",
+    "open_in_tab": false
+  },
+  "update_url": "https://clients2.google.com/service/update2/crx"
+}
