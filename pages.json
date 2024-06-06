@@ -1,0 +1,36 @@
+{
+    "pages": [ //pages数组中第一项表示应用启动页,
+        {
+            "path": "pages/login/login",
+            "style": {}
+        }, {
+            "path": "pages/login/forget",
+            "style": {}
+        }, {
+            "path": "pages/login/register",
+            "style": {}
+        } ,{
+            "path" : "pages/user/user",
+            "style" :{}
+        } ,{
+            "path" : "pages/popup/popup",
+            "style" :{}
+        }
+        ,{
+            "path" : "pages/domain/domain",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "智能模式-自定义域",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+    "globalStyle": {
+    	"navigationBarTextStyle": "black",
+    	"navigationBarTitleText": "云游",
+    	"navigationBarBackgroundColor": "#F8F8F8",
+    	"backgroundColor": "#F8F8F8",
+    	"navigationStyle": "custom" //取消默认的原生导航栏g
+    }
+}
